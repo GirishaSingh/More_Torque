@@ -49,7 +49,7 @@ Adds a vehicle to the system. The body of the request should include the VIN and
 
 ## Video Demo
 Check out the demo video 
-[![Video Demo](https://link-to-your-thumbnail-image.com)](https://link-to-your-video-demo.com)
+[![Video Demo](https://link-to-your-thumbnail-image.com)](https://drive.google.com/file/d/1qku3IE59jpubJuLTA32AwMN_6-6WgftL/view?usp=sharing)
 
 
 
